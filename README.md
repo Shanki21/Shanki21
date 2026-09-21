@@ -1,5 +1,3 @@
-<img width="200" height="128" alt="image" src="https://github.com/user-attachments/assets/c0d4d053-4945-453c-b4f2-b1c0502523e3" />
-
 
 # Hi, I'm Mridul Rawat 👋
 
