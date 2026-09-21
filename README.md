@@ -35,12 +35,6 @@ Git • GitHub • Maven • Docker • Postman • AWS • Vercel • Render
 
 ## 🚀 Featured Projects
 
-### 📚 Java Full Stack Library Management System
-
-Java • Spring Boot • Spring Data JPA • Hibernate • Spring Security • PostgreSQL • React
-
-A full-stack library management application covering books, patrons, borrowing, returns, reservations, authentication, and role-based access.
-
 ### ☁️ PixDrive
 
 Next.js • TypeScript • Prisma • PostgreSQL • Tailwind CSS • Vercel
